@@ -39,12 +39,14 @@ main {
 img {
     width: 100%;
     border-radius: 1rem;
+    margin-bottom: .3rem;
 }
 
 h1 {
     margin: 1rem 1rem;
     font-size: 1.4rem;
     font-weight: 700;
+    color: rgb(0, 0, 0, 0.7);
 }
 
 p {
